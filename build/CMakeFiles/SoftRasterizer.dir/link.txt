@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/SoftRasterizer.dir/include/model.cpp.o CMakeFiles/SoftRasterizer.dir/include/our_gl.cpp.o CMakeFiles/SoftRasterizer.dir/include/tgaimage.cpp.o CMakeFiles/SoftRasterizer.dir/src/main.cpp.o -o SoftRasterizer  /usr/lib/x86_64-linux-gnu/libGL.so /usr/lib/x86_64-linux-gnu/libX11.so -lpthread 

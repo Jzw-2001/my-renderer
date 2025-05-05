@@ -1,0 +1,7 @@
+/home/jawier/Documents/my-renderer/build/CMakeFiles/SoftRasterizer.dir
+/home/jawier/Documents/my-renderer/build/CMakeFiles/edit_cache.dir
+/home/jawier/Documents/my-renderer/build/CMakeFiles/rebuild_cache.dir
+/home/jawier/Documents/my-renderer/build/CMakeFiles/list_install_components.dir
+/home/jawier/Documents/my-renderer/build/CMakeFiles/install.dir
+/home/jawier/Documents/my-renderer/build/CMakeFiles/install/local.dir
+/home/jawier/Documents/my-renderer/build/CMakeFiles/install/strip.dir
